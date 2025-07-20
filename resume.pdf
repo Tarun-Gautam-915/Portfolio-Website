@@ -1,0 +1,112 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 1000
+>>
+stream
+BT
+/F1 24 Tf
+72 720 Td
+(John Doe) Tj
+0 -30 Td
+/F1 14 Tf
+(Full Stack Developer) Tj
+0 -20 Td
+(john.doe@example.com | (555) 123-4567) Tj
+0 -20 Td
+(GitHub: github.com/johndoe | LinkedIn: linkedin.com/in/johndoe) Tj
+0 -40 Td
+/F1 16 Tf
+(EXPERIENCE) Tj
+0 -25 Td
+/F1 12 Tf
+(Senior Full Stack Developer - Tech Innovations Inc. (2022 - Present)) Tj
+0 -15 Td
+(• Led development of 5+ web applications using React, Node.js, and MongoDB) Tj
+0 -15 Td
+(• Improved application performance by 40% through code optimization) Tj
+0 -15 Td
+(• Mentored junior developers and established coding best practices) Tj
+0 -25 Td
+(Frontend Developer - Digital Solutions Co. (2020 - 2022)) Tj
+0 -15 Td
+(• Developed responsive user interfaces for 10+ client projects) Tj
+0 -15 Td
+(• Collaborated with UX designers to implement pixel-perfect designs) Tj
+0 -15 Td
+(• Integrated RESTful APIs and third-party services) Tj
+0 -40 Td
+/F1 16 Tf
+(EDUCATION) Tj
+0 -25 Td
+/F1 12 Tf
+(Bachelor of Science in Computer Science - State University (2019)) Tj
+0 -40 Td
+/F1 16 Tf
+(TECHNICAL SKILLS) Tj
+0 -25 Td
+/F1 12 Tf
+(Languages: JavaScript, Python, HTML5, CSS3, SQL) Tj
+0 -15 Td
+(Frameworks: React, Vue.js, Node.js, Express, FastAPI) Tj
+0 -15 Td
+(Databases: MongoDB, PostgreSQL, MySQL) Tj
+0 -15 Td
+(Tools: Git, Docker, AWS, Figma, VS Code) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000053 00000 n 
+0000000110 00000 n 
+0000000250 00000 n 
+0000001301 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1370
+%%EOF
