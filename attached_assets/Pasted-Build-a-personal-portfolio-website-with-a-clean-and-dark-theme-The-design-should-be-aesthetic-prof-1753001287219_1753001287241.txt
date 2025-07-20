@@ -1,0 +1,104 @@
+Build a personal portfolio website with a clean and dark theme. The design should be aesthetic, professional, and minimalist, suitable for a developer or designer portfolio. Prioritize readability, subtle animations, and a structured layout that is easy to edit manually using pure HTML, CSS, and JavaScript.
+
+⚠ DO NOT use frameworks like React, TypeScript, Tailwind, Bootstrap, or jQuery. The output must be pure HTML (.html), CSS (.css), and JavaScript (.js) with a clean and modular folder structure.
+
+🎨 Design Goals:
+Fully responsive (desktop, tablet, mobile)
+
+Dark mode with soft contrast and modern UI/UX
+
+Minimalistic layout with lots of whitespace and a clean font (e.g., Inter, Poppins, or Montserrat)
+
+Smooth hover effects (fade, scale, underline transitions)
+
+Consistent section spacing and elegant dividers
+
+Use scroll-reveal or fade-in effects for section entrance
+
+Code should be well-commented and modular
+
+🧩 Website Sections:
+⿡ Home (Hero Section)
+Full-screen welcome area with a greeting headline (e.g., “Hi, I’m [Name]”) and a short tagline
+
+Sticky, minimal navigation bar with smooth scroll links to each section
+
+Optionally include a profile image or animated background element
+
+⿢ About Me
+Two-paragraph layout to describe background (education, interests, etc.)
+
+Section heading: “About Me”
+
+Use clean typography and a small icon or divider for visual polish
+
+Fade-in text on scroll
+
+⿣ Experience
+Section heading: “Experience”
+
+Timeline or card format for each internship/job
+
+Include placeholders for:
+  • Role
+  • Company
+  • Duration
+  • Short bullet points for key tasks or impact
+
+Ensure layout is modular and easy to duplicate for future additions
+
+⿤ Projects
+Section heading: “Projects”
+
+Display projects in a responsive grid of cards
+
+Each card should include:
+  • Project image thumbnail (with hover effect)
+  • Project title
+  • 2-line description
+  • Tech stack badges or pill-style labels
+
+On hover, show animated overlay or popup with more details
+
+Allow for unlimited projects to be added dynamically without breaking design
+
+⿥ Skills & Tools
+Section heading: “Technical Skills”
+
+Two-column layout:
+  • Tech Stack: (e.g., HTML, CSS, JS, React, Node.js, MongoDB, Java)
+  • Tools: (e.g., GitHub, Figma, Canva, Power BI, Zapier)
+
+Use custom icons or logos with tooltips or light hover effect
+
+Organized in clean rows or grid layout
+
+⿦ Contact
+Section heading: “Get in Touch” or “Contact”
+
+Upload/view resume button
+
+Social icons with links for LinkedIn, GitHub, Twitter
+
+Clickable email address (mailto)
+
+Optionally, include a simple contact form with name/email/message inputs (no backend required)
+
+🛠 Technical Requirements:
+Output folder should contain:
+  • index.html
+  • style.css
+  • script.js
+
+All code should be cleanly structured, well-indented, and include HTML comments for each section
+
+Use semantic HTML5 tags (<section>, <nav>, <article>, etc.)
+
+Minimal use of external libraries — only use icons/fonts via CDN (e.g., Google Fonts, Font Awesome)
+
+✅ Final Output:
+A responsive, professional, aesthetic portfolio website
+
+Built with pure HTML, CSS, and JS
+
+Easy to edit, update, and deploy manually (e.g., via GitHub or Netlify)
