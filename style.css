@@ -236,7 +236,7 @@ ul {
 
 .hero-scroll {
     position: absolute;
-    bottom: 30px;
+    /* bottom: 1px; */
     left: 50%;
     transform: translateX(-50%);
 }
@@ -548,6 +548,31 @@ section {
     font-weight: 500;
     color: #e4e4e7;
 }
+
+.skill-item img {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-bottom: 15px;
+  transition: transform 0.3s ease;
+  filter: brightness(0) saturate(100%) invert(41%) sepia(82%) saturate(2716%) hue-rotate(221deg) brightness(94%) contrast(101%);
+}
+
+
+.skill-item:hover img {
+    transform: scale(1.1);
+}
+
+.skill-icon {
+  width: 2.5rem;
+  height: auto;
+  margin-bottom: 15px;
+  transition: transform 0.3s ease;
+}
+
+.skill-item:hover .skill-icon {
+  transform: scale(1.1);
+}
+
 
 /* Contact Section */
 .contact {
