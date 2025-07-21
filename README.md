@@ -2,6 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, experience, and contact details in a modern, responsive, and professional format. Built using **HTML**, **CSS**, and **JavaScript**, it reflects my full-stack developer capabilities and eye for clean UI design.
 
+🔗 **Live Demo:** https://tarunportfoliowebsite.netlify.app/
 ## 🚀 Features
 
 - Responsive design for all screen sizes
